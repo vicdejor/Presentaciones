@@ -16,7 +16,7 @@ style: |
   h3{
     text-shadow: grey 1px 0 10px;
   }
-
+  
 ---
 
 ## Introducción a los Sistemas Operativos en Red
