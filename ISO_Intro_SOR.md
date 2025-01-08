@@ -101,4 +101,63 @@ style: |
 
 ---
 
+### Autenticación
+
+La **autenticación**: el mismo nombre de usuario y la misma contraseña deben servir para acceder a recursos en todo el sistema.
+
+---
+
+### Confidencialidad
+
+La **confidencialidad** en la transmisión de los datos: utilizando algún mecanismo de cifrado para el intercambio de información entre el cliente y el servidor.
+
+---
+
+### Espacio de nombres
+
+El **espacio de nombres**: los convenios sobre los nombres de los recursos deben ser independientes de los sistemas operativos que los alojan.
+
+---
+
+### Ubicación
+
+La **ubicación**: cada recurso debe conocerse sólo por su nombre, sin importar el sistema donde se ejecutan.
+
+---
+
+### Administración
+
+La **administración**: se debe facilitar un mismo mecanismo de gestión para todos los recursos.
+
+---
+
+### Protocolos
+
+Los **protocolos**: deben tener una API (Application Programming Interface) idéntica en todos los sistemas.
+
+---
+
+### Acceso a los recursos
+
+El **acceso a los recursos**: como hemos dicho más arriba, debe producirse como si estuviese ubicado en el mismo sistema donde se encuentra el cliente.
+
+---
+
+### Replicación
+
+La **replicación**: se debe conseguir que no existan diferencias entre dos copias del mismo recurso ubicadas en dos sistemas diferentes.
+
+---
+
+### Tratamiento de los fallos
+
+El **tratamiento de los fallos**: se deben ofrecer mecanismos de detección de los fallos, redundancia de los recursos en función de su importancia y reconexión cuando el fallo ha sido solventado.
+
+---
+
+### Tiempo
+
+El **tiempo**: Los relojes de todos los dispositivos de la infraestructura deben estar sincronizados.
+
+---
 
